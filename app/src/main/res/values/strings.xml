@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">qianfengDemo</string>
+    <string name="loading_tips">请稍后...</string>
+    <string name="mian_home_">有房</string>
+    <string name="mian_message_">消息</string>
+    <string name="mian_my_">我的</string>
+
+    <string name="menu_back">返回</string>
+</resources>
